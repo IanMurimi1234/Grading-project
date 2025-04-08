@@ -21,7 +21,7 @@ int main() {
     int English, Math;
     scanf("%d %d", &English, &Math);
 
-    // Call the function for each subject
+    
     calculateGrade("English", English);
     calculateGrade("Math", Math);
 
